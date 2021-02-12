@@ -1,0 +1,6 @@
+module Pods_Mailboxpower_MailboxpowerTests {
+  umbrella header "Pods-Mailboxpower-MailboxpowerTests-umbrella.h"
+
+  export *
+  module * { export * }
+}

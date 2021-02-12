@@ -1,0 +1,6 @@
+module Pods_Mailboxpower {
+  umbrella header "Pods-Mailboxpower-umbrella.h"
+
+  export *
+  module * { export * }
+}
